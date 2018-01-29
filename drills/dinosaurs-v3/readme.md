@@ -27,6 +27,8 @@
 
 #### Deployed Link
 
+https://dinosaurs-v3.firebaseapp.com/
+
 #### Framework of choice
 
 Vue
